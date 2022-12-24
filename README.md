@@ -1,10 +1,13 @@
-# SRK70900 Landing Page
+# Swat PK Landing Page
 
 Click here for
 
-### [Live Preview](https://srk70900starbucks.netlify.app//)
+### [Swat PK Live Preview](https://srk70900starbucks.netlify.app//)
 
-![SRK70900 Landing Page](https://github.com/SRK70900/starbucks/blob/master/Screenshot.png)
+![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(11).png)
+![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(12).png)
+![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(13).png)
+![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(14).png)
 
 ## Introduction
 
