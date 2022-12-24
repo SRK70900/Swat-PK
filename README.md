@@ -1,8 +1,8 @@
 # Swat PK Website
 
-Click here for
+Click here for live preview of the project
 
-### [Swat PK Live Preview](https://srk70900starbucks.netlify.app//)
+### [Swat PK Live Preview](https://swatpk.netlify.app/)
 
 ### Swat PK Screenshot 1
 ![SRK70900 Landing Page](https://github.com/SRK70900/TravelToSwat/blob/master/Screenshot%20(11).png)
