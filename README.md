@@ -1,7 +1,6 @@
 # Swat PK Website
 
-Click here for live preview of the project
-
+Click on the link below for live preview of the project
 ### [Swat PK Live Preview](https://swatpk.netlify.app/)
 
 ### Swat PK Screenshot 1
